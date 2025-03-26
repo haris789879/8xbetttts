@@ -12,7 +12,7 @@ function App() {
       }}>
         <div className="container mx-auto px-6 text-center">
           <h1 className="text-6xl font-bold mb-6">8xBet</h1>
-          <p className="text-2xl mb-8">8xbet trang hello haris</p>
+          <p className="text-2xl mb-8">8xbet</p>
           <button className="bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-full transition duration-300">
             Start Betting Now
           </button>
